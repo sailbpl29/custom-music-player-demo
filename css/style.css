@@ -57,11 +57,7 @@
         }
 
 
-
-
-        /* list css  */
-
-        .section{
+        .list-section{
             width: 100%;
             background-color: rgb(255, 245, 245);
             padding: 30px 30px;
@@ -115,8 +111,7 @@
 
         .description{
            padding: 0px 20px;
-           /* background-color: green; */
-           color: white;
+            color: white;
            font-family: calibri;
            display: flex;
            flex-direction: column;
